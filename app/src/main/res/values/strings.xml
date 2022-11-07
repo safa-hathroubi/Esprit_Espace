@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Esprit_Space</string>
+    <string name="input_email">Input email</string>
+    <string name="input_password">Input password</string>
+    <string name="password_forgotten">Password forgotten?</string>
+    <string name="mustNotBeEmpty">Must not be empty!</string>
+    <string name="checkYourEmail">Invalid Email!</string>
+    <string name="login">LOGIN</string>
+    <string name="signIn">Sign in</string>
+    <string name="rememberMe">Remember me</string>
+</resources>
